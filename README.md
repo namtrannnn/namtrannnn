@@ -1,37 +1,71 @@
 # Nam Tran 👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)
-[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)
-[![GitHub followers](https://img.shields.io/github/followers/sakshamtaneja21?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/namtrannnn?label=Follow&style=social)
+
 ---
+## 👋 Hi there
 
-## Hi there 👋,
+I'm **Nam Tran**, a Fullstack Developer passionate about building real-world web applications and scalable systems.
 
-### I'm Nam Tran, I am a community guy who loves tech and see myself as product enthoziast.
 -------
   
 ## 🧐 About
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
+- 🎓 Final-year IT student at Thu Dau Mot University
+- 💻 Fullstack Developer (React, Node.js, Express)
+- 🔥 Building real-world systems: Social Network, E-commerce, Movie Platform
+- ⚡ Experience with RESTful API, MongoDB, Socket.IO (Realtime)
+- ⚙️ Working with CI/CD (GitHub Actions) & Deployment (Railway, Docker)
+- 🚀 Interested in fullstack architecture & scalable systems
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- ReactJS (Hooks, Redux)
+- Tailwind CSS, SCSS
+
+### ⚙️ Backend
+- Node.js, Express.js
+- RESTful API
+- Socket.IO (Realtime)
+
+### 🗄 Database
+- MongoDB (NoSQL)
+- MySQL, PostgreSQL
+
+### 🐳 DevOps / Tools
+- GitHub, Git
+- GitHub Actions (CI/CD)
+- Railway (Deployment)
+- Docker, Docker Compose
+
+## 🚀 Projects
+
+### 🔥 Social Network System (Web + Mobile)
+- Built fullstack social network (Web + Flutter mobile)
+- Designed RESTful API for authentication, posts, friends
+- Integrated **Socket.IO realtime chat**
+- Optimized MongoDB schema for performance
+- Containerized backend using **Docker & Docker Compose**
+---
+
+### 🛒 Drink E-commerce System
+- Fullstack e-commerce system (React + Node.js)
+- Implemented authentication (JWT, Google, OTP)
+- Built **RBAC system (User, Staff, Admin)**
+- Integrated payment (MoMo, ZaloPay)
+- Developed **Realtime chat (Socket.IO)**
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+## 📫 Contact
 
+- 📧 Email: tnn231223@gmail.com
+- 💻 GitHub: https://github.com/namtrannnn
 
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
+## 🎯 Career Goal
 
-<!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔
-
--->
+- Become a professional Backend / Fullstack Developer
+- Build scalable systems and real-world applications
+- Gain experience in production systems and architecture
