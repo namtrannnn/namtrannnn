@@ -1,7 +1,5 @@
 # Nam Tran 👨‍💻
 
-![GitHub followers](https://img.shields.io/github/followers/namtrannnn?label=Follow&style=social)
-
 ---
 ## 👋 Hi there
 
@@ -34,7 +32,7 @@ I'm **Nam Tran**, a Fullstack Developer passionate about building real-world web
 - MongoDB (NoSQL)
 - MySQL, PostgreSQL
 
-### 🐳 DevOps / Tools
+### 🐳 Tools
 - GitHub, Git
 - GitHub Actions (CI/CD)
 - Railway (Deployment)
